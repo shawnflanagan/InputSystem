@@ -36,7 +36,7 @@ The same approach works for other Devices types (for example, [`Keyboard.current
 
 ## Getting input indirectly through an Input Action
 
-To get input directly through an Input Action, follow these steps, which are explained in detail below:
+To get input indirectly through an Input Action, follow these steps, which are explained in detail below:
 
 1. Add a `PlayerInput` component.
 2. Create Actions.
